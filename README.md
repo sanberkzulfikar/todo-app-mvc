@@ -1,4 +1,4 @@
-<img src="https://sanberkzulfikar.com/images/pic04.jpg>
+<img src="https://sanberkzulfikar.com/images/pic04.jpg">
 
 https://todoapp-mvc.cyclic.app
 
